@@ -1,2 +1,2 @@
-UpdateAvailable=true
+UpdateAvailable=false
 LatestVersion=1.4.0
